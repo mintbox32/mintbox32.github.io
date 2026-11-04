@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ff7b54"/>
+      <stop offset="45%" stop-color="#d13d64"/>
+      <stop offset="100%" stop-color="#2d1d42"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg1)"/>
+  <circle cx="300" cy="260" r="150" fill="#ffd166" opacity="0.7"/>
+  <circle cx="1100" cy="220" r="200" fill="#4ecdc4" opacity="0.3"/>
+  <g fill="#2a1230" opacity="0.75">
+    <path d="M390 580q120-160 320-160t320 160v120H390z"/>
+  </g>
+  <g fill="#f9f3e8">
+    <circle cx="720" cy="500" r="120"/>
+    <rect x="620" y="420" width="200" height="110" rx="48"/>
+  </g>
+  <text x="800" y="780" text-anchor="middle" font-size="110" font-family="Arial, sans-serif" font-weight="700" fill="#fff3e6">Gobsplosion</text>
+</svg>
